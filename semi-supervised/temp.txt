@@ -1,0 +1,3 @@
+Epoch: 001, LR: 0.001000, Loss: 0.8771073, Validation MAE: 1.0630729,  Test MAE: 1.0541619
+Epoch: 002, LR: 0.001000, Loss: 0.7186646, Validation MAE: 1.0622112,  Test MAE: 1.0548089
+Epoch: 003, LR: 0.001000, Loss: 0.6847799, Validation MAE: 0.9595939,  Test MAE: 0.9430585
